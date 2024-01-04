@@ -11,7 +11,7 @@
         android:ems="10"
         android:gravity="start|top"
         android:hint="请输入链接"
-        android:inputType="textMultiLine" />
+        android:inputType="text" />
 
     <ProgressBar
         android:id="@+id/progressBar"

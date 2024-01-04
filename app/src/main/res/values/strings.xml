@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Javascript DY for Android</string>
     <string name="app_welcome">欢迎使用 安卓版Javascript DY\n</string>
+    <string name="help">\n===指令列表===\n\\setapi API\n重新设置API地址为API\n\n\\clear\n清屏\n</string>
 </resources>
